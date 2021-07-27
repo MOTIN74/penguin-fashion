@@ -1,0 +1,26 @@
+
+
+.bg-nav-color{
+    background-color: #e7ebf0;
+}
+.text{
+    color: #FABE4C;
+}
+.btn-color{
+    background-color: #A4BC46;
+}
+.btn-color:hover{
+    background-color: black;
+    color: #f4f5f0;
+    transition: 2s;
+}
+.image{
+    width: 450px;
+    height: 450px;
+}
+
+.card-serial:hover{
+    background-color: rgb(228, 226, 226);
+    transition: 2s;
+    border-radius: 15px;
+}
